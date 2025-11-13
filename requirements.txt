@@ -20,7 +20,7 @@ gitdb==4.0.12
 GitPython==3.1.45
 idna==3.11
 ImageIO==2.37.2
-img2vec_pytorch @ file:///C:/Users/USER/OneDrive/Downloads/Erosion/img2vec
+-e ./img2vec
 ipykernel==7.1.0
 ipython==9.7.0
 ipython_pygments_lexers==1.1.1
